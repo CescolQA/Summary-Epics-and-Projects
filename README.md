@@ -3,7 +3,7 @@
 ## Experiencias API:
 
 Proyecto: Artículos próximos a vencer
-Integración entre la aplicación Web y la Mobile | Extensión y mejora operativa de la carga y actualización de datos de artículos por vencer
+Integración entre la aplicación Web y la Mobile - Extensión y mejora operativa de la carga y actualización de datos de artículos por vencer
 
 Tareas API:
 
@@ -12,7 +12,7 @@ Tareas API:
 	- Manejo de validaciones y mensajería
 	- Manejo de Errores
 
-Proyecto: Actualización tecnológica de las Puntos de Ventas | Relevamiento, modernización y optimización de envíos de datos
+Proyecto: Actualización tecnológica de las Puntos de Ventas - Relevamiento, modernización y optimización de envíos de datos
 
 Tareas API:
 
@@ -25,8 +25,7 @@ Tareas API:
 
 ## Experiencias SQL:
 
-Evento: Generación de Reportes y Extracción de datos
-Reportes de uso comercial relacionados a precios, ventas, maestro de artículos, maestro de proveedores, movimiento de stock y artículos, entre otros
+Evento: Generación de Reportes y Extracción de datos - Reportes de uso comercial relacionados a precios, ventas, maestro de artículos, maestro de proveedores, movimiento de stock y artículos, entre otros
 
 Tareas SQL:
 
@@ -46,8 +45,7 @@ Tareas SQL:
 
 ## Experiencias Funcionales:
 
-Proyecto: Re ingeniería de Módulos de Sistemas (Sistema de Desarrollo de Ventas)
-Optimización de lógica de procesamiento de datos y flujos funcionales
+Proyecto: Re ingeniería de Módulos de Sistemas (Sistema de Desarrollo de Ventas) - Optimización de lógica de procesamiento de datos y flujos funcionales
 
 Tareas Funcionales:
 
@@ -59,8 +57,7 @@ Tareas Funcionales:
 	- Establecimiento de casos de pruebas y criterios de aceptación
 
 
-Proyecto: Ajuste en el procesamiento de las Órdenes de Compras
-Adaptar nuevos criterios y validaciones en los diferentes tipos de ordenes compras
+Proyecto: Ajuste en el procesamiento de las Órdenes de Compras - Adaptar nuevos criterios y validaciones en los diferentes tipos de ordenes compras
 
 Tareas Funcionales:
 
