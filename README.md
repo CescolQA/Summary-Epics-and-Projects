@@ -3,8 +3,7 @@
 ## Experiencias API:
 
 Proyecto: Artículos próximos a vencer
-Integración entre la aplicación Web y la Mobile
-Extensión y mejora operativa de la carga y actualización de datos de artículos por vencer
+Integración entre la aplicación Web y la Mobile | Extensión y mejora operativa de la carga y actualización de datos de artículos por vencer
 
 Tareas API:
 
@@ -13,8 +12,7 @@ Tareas API:
 	- Manejo de validaciones y mensajería
 	- Manejo de Errores
 
-Proyecto: Actualización tecnológica de las Puntos de Ventas
-Relevamiento, modernización y optimización de envíos de datos
+Proyecto: Actualización tecnológica de las Puntos de Ventas | Relevamiento, modernización y optimización de envíos de datos
 
 Tareas API:
 
