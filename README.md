@@ -9,8 +9,8 @@ Tareas API:
 
 	- Definiciones de datos de entrada y salida
 	- CRUD de datos
-	- Manejo de validaciones y mensajería
-	- Manejo de Errores
+	- Lectura del protocolo HTTP (Request / Response)
+	- Manejo de validaciones, mensajería y Errores
 
 Proyecto: Actualización tecnológica de las Puntos de Ventas - Relevamiento, modernización y optimización de envíos de datos
 
