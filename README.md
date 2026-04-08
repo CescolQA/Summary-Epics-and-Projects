@@ -57,7 +57,7 @@ Tareas Funcionales:
 	- Establecimiento de casos de pruebas y criterios de aceptación
 
 
-Proyecto: Ajuste en el procesamiento de las Órdenes de Compras - Adaptar nuevos criterios y validaciones en los diferentes tipos de ordenes compras
+Proyecto: Ajuste en el procesamiento de las Órdenes de Compras - Adaptar nuevos criterios y validaciones en los diferentes tipos de ordenes de compras
 
 Tareas Funcionales:
 
