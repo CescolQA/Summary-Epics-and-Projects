@@ -34,7 +34,7 @@ Tareas SQL:
 	- Extracción, exploración y análisis de datos
 	- Creación y generación automática de reportes
 
-Evento: Correctivos y Evolutivos en los diferentes funcionalidades y módulos del ERP
+Evento: Correctivos y Evolutivos en las diferentes funcionalidades y módulos del ERP
 
 Tareas SQL:
 
